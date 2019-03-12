@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ExoPlayer</string>
+    <string name="internet_connection">Please ensure internet connectivity</string>
+</resources>
